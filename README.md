@@ -1,4 +1,4 @@
-# M-2022-Andreoli-DarkTraceOT
+# M-2022-Andreoli-Gregorio-Thesis-Design and Development of an Adaptive Security System for IoT
 A Critical Analysis Of The IDS/IPS Literature Relating To OT/IoT Networks
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
